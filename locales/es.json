@@ -1,0 +1,10 @@
+{
+  "404" : {
+    "title": "Página no encontrada",
+    "message": "La página que buscas no existe.",
+    "goHome": "Volver a la página de inicio"
+  },
+  "Common" : {
+    "test": "Hola mundo"
+  }
+}
